@@ -269,8 +269,9 @@ hr {
     object-fit: cover;
 }
 .sobre-nosotros__texto {
-    padding: 1rem;
     font-size: 2rem;
+    margin: 1.5rem;
+    text-align: justify;
 }
 /*-------------FORMULARIO---------------*/
 
